@@ -3,7 +3,6 @@ import json
 import os
 import argparse
 from datetime import datetime
-import math
 from timezonefinder import TimezoneFinder
 import pytz
 
